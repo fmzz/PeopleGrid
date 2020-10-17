@@ -1,6 +1,6 @@
-# ihack
+# iHack Hackthon - Team Pinguin
 
-A new Flutter project.
+EVM SMart Dashboard.
 
 ## Getting Started
 
