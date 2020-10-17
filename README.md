@@ -1,6 +1,6 @@
 # iHack Hackthon - Team Pinguin
 
-EVM SMart Dashboard.
+EVM Smart Dashboard.
 
 ## Getting Started
 
