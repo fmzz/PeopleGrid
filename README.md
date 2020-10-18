@@ -1,6 +1,6 @@
-# ihack
+# iHack Hackthon - Team PeopleGrid (Pinguin)
 
-A new Flutter project.
+PeopleGrid | Power to the people.
 
 ## Getting Started
 
