@@ -1,6 +1,6 @@
-# iHack Hackthon - Team Pinguin
+# iHack Hackthon - Team PeopleGrid (Pinguin)
 
-EVM Smart Dashboard.
+PeopleGrid | Power to the people.
 
 ## Getting Started
 
