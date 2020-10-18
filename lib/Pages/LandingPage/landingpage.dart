@@ -15,7 +15,6 @@ class _LandingPageState extends State<LandingPage> {
         Uri.encodeFull('https://openapi.plusportal.de/data/v2/devices'),
         headers: {'Accept': 'application/json', 'Authorization': 'dCZuYYFNXh'});
 
-    //print(response.body);
     List data = json.decode(response.body);
     print(data[1]['id']);
     return null;

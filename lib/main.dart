@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
             theme: ThemeData(
               brightness: Brightness.dark,
               primarySwatch: Colors.amber,
-              accentColor: Colors.amber,
+              accentColor: Color.fromRGBO(98, 188, 190, 0.7),
               visualDensity: VisualDensity.adaptivePlatformDensity,
               fontFamily: 'Montserrat',
             ),
