@@ -1,5 +1,7 @@
 # iHack Hackthon - Team PeopleGrid (Pinguin)
 
+![alt text](https://github.com/fmzz/PeopleGrid/blob/master/assets/images/logo_large.png)
+
 PeopleGrid | Power to the people.
 
 ## Getting Started
